@@ -41,6 +41,6 @@ For queries and further information, feel free to reach out to the organizing te
 - **Intellexa X GDGREC**  
 
 Stay connected for updates and announcements. Together, let’s make GitRecQuest a milestone event! 🎯🚀  
-"""
+
 
 
