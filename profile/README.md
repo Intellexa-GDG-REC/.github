@@ -1,6 +1,3 @@
-# Adding emojis to enhance the README.md content for the event GitHub page
-
-
 # **🚀 GitRecQuest v.1.0.0**  
 > **Empowering Developers, Connecting Innovators, and Building a Stronger Open-Source Community! 🌟**
 
@@ -20,10 +17,7 @@ GitRecQuest v.1.0.0 is an open-source collaborative event hosted by **Intellexa 
 ---
 
 ## **Important Dates** 📅  
-- **🗓 11th January**: Brochure and MoU submission.  
-- **🗓 14th January**: Demo of the website (90% completion).  
-- **🗓 19th January**: Website goes live.  
-- **🗓 30th January**: Project tracking systems (6 repositories with 2 leads each) launch.  
+- **Soon**
 
 ---
 
@@ -44,16 +38,9 @@ GitRecQuest v.1.0.0 is an open-source collaborative event hosted by **Intellexa 
 
 ## **Contact Us** 📩  
 For queries and further information, feel free to reach out to the organizing team:  
-- **👨‍💼 Raghavan** (Organizer)  
-- **🧑‍💻 Sakthisree Moliyan Vel** (Project Tracking Lead)  
-- **👩‍🎓 Keerthana Student REC** (Outreach Lead)  
+- **Intellexa X GDGREC**  
 
 Stay connected for updates and announcements. Together, let’s make GitRecQuest a milestone event! 🎯🚀  
 """
 
-# Saving the updated README.md with emojis to a file
-event_file_with_emojis_path = "/mnt/data/GitRecQuest_README_with_Emojis.md"
-with open(event_file_with_emojis_path, "w") as file:
-    file.write(event_readme_with_emojis)
 
-event_file_with_emojis_path
