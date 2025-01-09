@@ -1,6 +1,6 @@
 # Adding emojis to enhance the README.md content for the event GitHub page
 
-event_readme_with_emojis = """
+
 # **🚀 GitRecQuest v.1.0.0**  
 > **Empowering Developers, Connecting Innovators, and Building a Stronger Open-Source Community! 🌟**
 
